@@ -1,0 +1,6 @@
+{
+  "name": "Foodie's Hub",
+  "description": "A complete, modern, and highly interactive fast food restaurant website featuring a dynamic menu, cart, custom order system, testimonials, gallery, and about sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
